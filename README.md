@@ -1,1 +1,1 @@
-# AI-MID-LAB
+# AI MID LAB
